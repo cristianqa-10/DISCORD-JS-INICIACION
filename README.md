@@ -54,4 +54,4 @@ Personaliza las funciones y comandos de tu bot.
 
 INDEX.JS ESTÁ COPIADO EN ESTE REPOSITORIO, CON UN CÓDIGO BÁSICO 
 
-💻 Autor: Cristian
+💻 Autor: Cristian QA
