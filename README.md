@@ -15,7 +15,8 @@ Antes de comenzar, asegúrate de tener los siguientes programas instalados:
 Para iniciar el BOT, necesitas instalar las siguientes librerías:  
 
 - **discord.js@14**  
-- **npm init -y**  
+- **npm init -y**
+- **fs** 
 
 ---
 
@@ -45,7 +46,7 @@ Sigue estos pasos para configurar tu bot desde cero:
 ---
 
 
-🌟 Próximos pasos
+## 🌟 Próximos pasos
 Crea el archivo principal de tu bot (por ejemplo, index.js).
 Configura tu token de bot en el código. (https://discord.com/developers/applications) 
 Personaliza las funciones y comandos de tu bot.
