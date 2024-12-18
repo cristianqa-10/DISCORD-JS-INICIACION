@@ -41,6 +41,10 @@ Sigue estos pasos para configurar tu bot desde cero:
    ```bash
    npm install discord.js@latest
 
+6. Instala cómo último la librería de FS, esta librería servíra para el command handler y poder organizar mejor los comandos.
+   ```bash
+   npm install fs
+
 ¡Listo! Ya tienes los elementos básicos para empezar a trabajar en tu bot 🚀.
 
 ---
@@ -48,11 +52,12 @@ Sigue estos pasos para configurar tu bot desde cero:
 
 ## 🌟 Próximos pasos
 Crea el archivo principal de tu bot (por ejemplo, index.js).
+Crea la carpeta de configuración (config.json), en esta carpeta pondrás datos confidenciales como el TOKEN y el CLIENT_ID
 Configura tu token de bot en el código. (https://discord.com/developers/applications) 
 Personaliza las funciones y comandos de tu bot.
 
 
 
-INDEX.JS ESTÁ COPIADO EN ESTE REPOSITORIO, CON UN CÓDIGO BÁSICO 
+INDEX.JS, COMANDOS Y CONFIG.JSON ESTÁ COPIADO EN ESTE REPOSITORIO, CON UN CÓDIGO BÁSICO 
 
 💻 Autor: Cristian QA
